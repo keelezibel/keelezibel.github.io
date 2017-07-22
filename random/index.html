@@ -1,18 +1,16 @@
 ---
-layout: home
+layout: archive
+permalink: /random/
 title: Random
-category: random
 author_profile: true
 ---
 
-{% for post in random._posts %}
-  {% if post.categories contains 'random' %}
-	<div class="post">
-		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-		<p class="meta">Date: {{ post.date }}</p>
-		<div class="entry">
-			{{ post.content | strip_html | truncatewords: 100 }}
-		</div>
-	</div>
-  {% endif %}
+{% include group-by-array collection=site.posts field="categories" %}
+
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
