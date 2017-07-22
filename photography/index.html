@@ -1,7 +1,11 @@
 ---
-layout: home
-title: Photography
-author_profile: true
+layout: archive
+permalink: /photography/
+author_profile: false
 ---
 
-About myself.
+<div class="grid__wrapper">
+  {% for post in site.photogrpahy %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
