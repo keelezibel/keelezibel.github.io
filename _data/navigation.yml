@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Data Anayltics"
     url: /data_analytics/
   - title: "Photography"
     url: /photography/
+  - title: "Finance"
+    url: /financial_independence/
+  - title: "Dating"
+    url: /dating/
   - title: "Random"
     url: /random/

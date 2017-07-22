@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Le Tang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_pic.jpg"
   bio              : "Engineer on this sunny island."
   location         : "Singapore"
   email            : "letang.boon@gmail.com"
