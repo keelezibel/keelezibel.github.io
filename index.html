@@ -3,7 +3,12 @@ layout: splash
 header:
   image: /assets/images/main.jpg
   caption: "Photo credit: [**wallpapersite**]"
-  exerpt: "Yet another blog"
-  cta_label: "Home"
-  cta_url: "/home/index.html"
 ---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
