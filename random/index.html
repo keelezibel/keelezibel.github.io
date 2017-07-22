@@ -5,8 +5,7 @@ category: random
 author_profile: true
 ---
 
-{% raw %}
-{% for post in site.posts %}
+{% for post in random._posts %}
   {% if post.categories contains 'random' %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -17,4 +16,3 @@ author_profile: true
 	</div>
   {% endif %}
 {% endfor %}
-{% endraw %}
