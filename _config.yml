@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Doraemon"
+title                    : ""
 title_separator          : "-"
 name                     : "Le Tang"
 description              : "An amazing website."
