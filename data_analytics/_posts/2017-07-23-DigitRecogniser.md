@@ -1,15 +1,15 @@
 ---
 layout: single
 title: Digit Recogniser using Keras
-categories: 'data analytics'
-tags: ['keras' 'deep learning' 'image recognition']
+categories: data_analytics
+tags: keras
 header:
   overlay_image: /assets/posts/2017-07-23-DigitRecogniser/digits.png
 ---
 
 This post is based on a tutorial: Optimizing Neural Networks using Keras (with Image recognition case study) from [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/). <br />
 <br />
-<!--{% include toc icon="gears" title="Contents" %}-->
+{% include toc icon="gears" title="Contents" %}
 
 # Background of Keras
 Keras is a deep learning high level library that does all the heavy lifting with an easier interface to Tensorflow or Theano as its backend. It 
