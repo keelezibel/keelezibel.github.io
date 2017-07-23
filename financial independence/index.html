@@ -1,16 +1,16 @@
 ---
 layout: archive
-permalink: /financial_independence/
+permalink: /financial independence/
 author_profile: true
 header:
-  overlay_image: /financial_independence/finance.jpg
+  overlay_image: /financial independence/finance.jpg
   caption: "Photo credit: [**baystreet**]"
 ---
 
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
-  {% if category == "financial_independence" %}
+  {% if category == "financial independence" %}
     {% assign posts = group_items[forloop.index0] %}
     <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
     {% for post in posts %}
