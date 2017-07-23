@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Digit Recogniser using Keras
-categories: data_analytics
-tags: keras
+categories: 'data analytics'
+tags: ['keras' 'deep learning' 'image recognition']
 header:
   overlay_image: /assets/posts/2017-07-23-DigitRecogniser/digits.png
 ---
