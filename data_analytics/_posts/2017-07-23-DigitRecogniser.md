@@ -2,14 +2,13 @@
 layout: single
 title: Digit Recogniser using Keras
 categories: data_analytics
-tags: keras deeplearning imagerecognition
+tags: ['keras' 'deep learning' 'image recognition']
 header:
   overlay_image: /assets/posts/2017-07-23-DigitRecogniser/digits.png
-  exerpt: ""
 ---
 
 This post is based on a tutorial: Optimizing Neural Networks using Keras (with Image recognition case study) from [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/). <br />
-
+<br />
 {% include toc icon="gears" title="Contents" %}
 
 # Background of Keras
@@ -56,7 +55,7 @@ There are seven slightly different models implemented.
 
 # Result
 I submitted the CNN results and viola! <br />
-{% include figure image_path="/assets/posts/2017-07-23-DigitRecogniser/leaderboard.png" caption="Leaderboard result using CNN" %} <br />
+{% include figure image_path="/assets/posts/2017-07-23-DigitRecogniser/leaderboard.png" caption="Leaderboard result using CNN" %} 
 
 <br />
 
@@ -80,6 +79,8 @@ The author highlighted some parameters to tune for NN:
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-3/#baby)
 - [The Evolution and Core Concepts of Deep Learning & Neural Networks](https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/)
 - [Deep Learning for Computer Vision – Introduction to Convolution Neural Networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
+
+<br />
 
 # Conclusion
 This tutorial is really helpful as a start to build Neural Networks in Keras. There is so much more things to learn in this area.
