@@ -2,14 +2,15 @@
 layout: single
 title: Digit Recogniser using Keras
 categories: data_analytics
-tags: keras, deep learning, image recognition
+tags: keras deeplearning imagerecognition
 header:
   overlay_image: /assets/posts/2017-07-23-DigitRecogniser/digits.png
   exerpt: ""
 ---
-{% include toc icon="gears" title="Contents" %}
 
 This post is based on a tutorial: Optimizing Neural Networks using Keras (with Image recognition case study) from [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/). <br />
+
+{% include toc icon="gears" title="Contents" %}
 
 # Background of Keras
 Keras is a deep learning high level library that does all the heavy lifting with an easier interface to Tensorflow or Theano as its backend. It 
@@ -19,6 +20,8 @@ Limitations of Keras: <br />
 - Dependent on low level libraries like Theano/Tensorflow
 - Less flexible, since it completely abstracts the low level languages
 - Relatively new
+
+<br />
 
 # When to use Neural Networks
 I like how the author mentioned that not every problem requires a Neural Network model to solve. Perhaps traditional algorithms can already solve
@@ -34,6 +37,8 @@ the problem. Simplicity is more important than complexity. And there is a list o
 - Train and monitor changes in training and validation data sets
 - Test your model, and save it for future use
 
+<br />
+
 # Implementation
 The code (notebook) and data can be found [here](https://github.com/keelezibel/DigitRecogniser). Clone the repo, unzip the Train folder
 and you are good to go.<br />
@@ -47,9 +52,13 @@ There are seven slightly different models implemented.
 6. 5 hidden layers with 500 neurons, 25 epochs with dropout (MLP)
 7. 5 epochs (Convolutional Neural Network)
 
+<br />
+
 # Result
 I submitted the CNN results and viola! <br />
 {% include figure image_path="/assets/posts/2017-07-23-DigitRecogniser/leaderboard.png" caption="Leaderboard result using CNN" %} <br />
+
+<br />
 
 # Parameters for NN
 The author highlighted some parameters to tune for NN:
@@ -61,6 +70,8 @@ The author highlighted some parameters to tune for NN:
 - Type of optimization / backpropagation technique to use
 - Dropout rate
 - Weight sharing
+
+<br />
 
 # Resources
 - [List of Keras resources](https://github.com/fchollet/keras-resources)
