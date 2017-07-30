@@ -8,3 +8,5 @@ main:
     url: /finance/
   - title: "Fun"
     url: /fun/
+  - title: "Search"
+    url: /search/
