@@ -7,7 +7,7 @@ categories: fun
 Is it possible to build a perpetual moving machine?
 <br />
 {% include video id="A-QgGXbDyR0" provider="youtube" %}
-
+<br />
 **First law of thermodynamics:** Energy cannot be created or destroyed. So even if there are 
 perpetual machines, they can't produce additional energy for output.
 <br />
