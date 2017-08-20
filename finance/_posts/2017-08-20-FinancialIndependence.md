@@ -26,8 +26,10 @@ Below is an example highlighted in the article.
 <br />
 ![Savings rate for a person with $5,000 income and 40% savings rate]({{ site.url }}/assets/posts/2017-08-20-Retire10years/savings_rate.jpg)
 <br />
+<br />
 Finally, here is the saving rates versus yield.
 ![High yield, high returns, lesser number of years to retire]({{ site.url }}/assets/posts/2017-08-20-Retire10years/saving_yield.jpg)
+<br />
 <br />
 Some food for thought:
 1. How does it change for a single person, couple(no dependent) and couple(with dependents)?
