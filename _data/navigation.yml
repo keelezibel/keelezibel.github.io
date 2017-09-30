@@ -2,6 +2,8 @@
 main:
   - title: "Smarty"
     url: /DA/
+  - title: "Webdev"
+    url: /Web/
   - title: "Photography"
     url: /photography/
   - title: "Finance"
