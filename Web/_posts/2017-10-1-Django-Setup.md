@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Anomaly detection
+title: Django web framework
 categories: Web
 tags: 
 - Django
@@ -25,3 +25,7 @@ django-tutorials
 |--------- wsgi.py
 |------manage.py
 ```
+
+### Explanation
+- <mark>__init__.py</mark> Specifies to treat the folder as a package
+- <mark>settings.py</mark>
