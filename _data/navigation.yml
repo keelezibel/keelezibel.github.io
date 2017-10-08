@@ -2,10 +2,10 @@
 main:
   - title: "Smarty"
     url: /DA/
-  - title: "Webdev"
-    url: /Web/
-  - title: "Photography"
-    url: /photography/
+  - title: "Heroku"
+    url: https://doraemonz.herokuapp.com/
+  #- title: "Photography"
+  #  url: /photography/
   - title: "Finance"
     url: /finance/
   - title: "Fun"

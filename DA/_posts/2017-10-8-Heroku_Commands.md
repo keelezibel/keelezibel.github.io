@@ -6,6 +6,10 @@ tags:
 - Heroku
 ---
 
+Below are some shortcuts for setting up a python project.
+<br />
+<br />
+
 Login to heroku with credentials
 ```
 heroku login
