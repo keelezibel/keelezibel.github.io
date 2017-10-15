@@ -82,3 +82,9 @@ MIDDLEWARE_CLASSES = (
     'whitenoise.middleware.WhiteNoiseMiddleware',
     ...
 ```
+
+Push to heroku
+```
+git push origin master
+git push heroku master
+```
