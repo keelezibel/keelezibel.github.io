@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Django web framework
-categories: DA
+categories: Coding
 tags: 
 - Django
 ---

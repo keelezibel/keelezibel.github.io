@@ -1,7 +1,7 @@
 ---
 layout: single
 title: How to permanently save Github credentials on Cloud 9
-categories: DA
+categories: Coding
 tags: 
 - Cloud9
 - Github 

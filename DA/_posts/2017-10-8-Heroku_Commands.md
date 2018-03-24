@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Heroku shortcuts
-categories: DA
+categories: Coding
 tags: 
 - Heroku
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Anomaly detection
-categories: DA
+categories: Coding
 tags: 
 - 
 - 

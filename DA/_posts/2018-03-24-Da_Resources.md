@@ -1,11 +1,11 @@
 ---
 layout: single
 title: Resources for learning Data Analytics
-categories: DA
+categories: Coding
 tags: 
-- Kaggle(Free)
-- Codecademy(Paid)
-- Datacamp(Paid)
+- Kaggle
+- Codecademy
+- Datacamp
 ---
 
 The area for Data Analytics(DA) is a big field. From the choice of languages to the frameworks/APIs available, one may wonder what are some of 

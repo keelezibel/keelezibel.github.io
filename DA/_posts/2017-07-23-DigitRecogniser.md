@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Digit Recogniser using Keras
-categories: DA
+categories: Coding
 tags: 
 - keras
 - deep learning
