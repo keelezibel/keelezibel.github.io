@@ -2,8 +2,6 @@
 main:
   - title: "Coding"
     url: /Coding/
-  #- title: "Photography"
-  #  url: /Photography/
   - title: "Finance"
     url: /Finance/
   - title: "Fun"
