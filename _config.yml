@@ -49,7 +49,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.
 
-remote_theme             : benbalter/retlab
+remote_theme             : "mmistakes/minimal-mistakes"
 
 # SEO Related
 google_site_verification :
