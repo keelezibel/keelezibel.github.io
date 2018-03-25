@@ -1,18 +1,10 @@
 ---
-layout: splash
+layout: home
 header:
   overlay_image: /assets/images/main.jpg
   caption: "Photo credit: [**wallpapersite**]"
 ---
-<head>
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-8241314451378836",
-      enable_page_level_ads: true
-    });
-  </script>
-</head>
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}

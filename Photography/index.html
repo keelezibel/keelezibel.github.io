@@ -1,0 +1,13 @@
+---
+layout: archive
+permalink: /photography/
+author_profile: true
+header:
+  overlay_image: /photography/photography.jpg
+---
+
+<div class="grid__wrapper">
+  {% for post in site.photogrpahy %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
