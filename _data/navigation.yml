@@ -3,12 +3,12 @@ main:
   - title: "Coding"
     url: /Coding/
   - title: "Finance"
-    url: /Finance/
+    url: /finance/
   - title: "Fun"
-    url: /Fun/
+    url: /fun/
   - title: "Heroku"
     url: https://doraemonz.herokuapp.com/
   - title: "Search"
-    url: /Search/
+    url: /search/
   - title: "Terms & Privacy Policy"
     url: /TP/
