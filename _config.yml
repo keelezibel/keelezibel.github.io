@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -18,7 +20,6 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/assets/images/doraemon.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 500
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 comments:
   provider               : "disqus"
   disqus:
