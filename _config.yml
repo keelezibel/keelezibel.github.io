@@ -18,6 +18,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/assets/images/doraemon.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 500
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 comments:
   provider               : "disqus"
   disqus:
