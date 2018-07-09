@@ -54,7 +54,7 @@ search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : OJGSQ0UGQX # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
+  index_name             : "dev_keelezibel" # YOUR_INDEX_NAME
   search_only_api_key    : 1bfdaf2f5c24f0b77bc7229631335892 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
