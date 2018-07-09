@@ -2,9 +2,11 @@
 layout: default
 ---
 
+{% comment %}
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
+{% endcomment %}
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
@@ -16,9 +18,11 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
+    {% comment %}
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
+    {% endcomment %}
 
     {{ content }}
 
