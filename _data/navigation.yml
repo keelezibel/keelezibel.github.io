@@ -8,7 +8,7 @@ main:
     url: /fun/
   - title: "Heroku"
     url: https://doraemonz.herokuapp.com/
-  - title: "Search"
-    url: /search/
+  #- title: "Search"
+  #  url: /search/
   - title: "Terms & Privacy Policy"
     url: /TP/
