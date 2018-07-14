@@ -39,3 +39,23 @@ Smallest unit of a particular forex pair.
 Pip stands for Point in Percentage. It is usually 4 decimal places except for Japanese Yen pairs which are 
 typically 2 decimals.
 
+Bid price is the selling price. Ask price is the buying price. Usually, bid price < ask price.
+
+Spread is the difference between bid and ask prices. This is where brokers earn their "commissions".
+
+## Lot Size
+Standard lot (100,000 units)
+Mini lot (10,000 units)
+Micro lot (1,000 units)
+Nano lot (< 1,000 units)
+
+## Types of forex orders
+1. Market
+Enters market immediately at the ask price.
+2. Limit
+Enters market at specified price.
+3. Stop
+Enters market when it moves in your favor.
+4. Stop loss
+Leaves market when it moves against you.
+

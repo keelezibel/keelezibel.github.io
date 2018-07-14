@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Forex Trading Basics
+title: Forex Risk Management
 categories: finance
 tags: 
 - forex

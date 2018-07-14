@@ -6,7 +6,7 @@ main:
     url: /finance/
   - title: "Fun"
     url: /fun/
-  - title: "Heroku"
+  - title: "Trading"
     url: https://doraemonz.herokuapp.com/
   - title: "Terms & Privacy Policy"
     url: /TP/
