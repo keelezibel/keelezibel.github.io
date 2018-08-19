@@ -51,11 +51,24 @@ Nano lot (< 1,000 units)
 
 ## Types of forex orders
 1. Market
-Enters market immediately at the ask price.
+    - Enters market immediately at the ask price.
 2. Limit
-Enters market at specified price.
+    - Enters market at specified price.
 3. Stop
-Enters market when it moves in your favor.
+    - Enters market when it moves in your favor.
 4. Stop loss
-Leaves market when it moves against you.
+    - Leaves market when it moves against you.
 
+## Types of forex charts
+1. Line
+2. Bar
+3. Candlestick
+
+## Types of Anaylsis
+1. [Fundamental](https://www.forexfactory.com/calendar.php)
+2. Technical
+3. Sentiment
+    - [Commitment of traders' report](https://www.barchart.com/futures/commitment-of-traders)
+4. 
+
+[To be continued...]
