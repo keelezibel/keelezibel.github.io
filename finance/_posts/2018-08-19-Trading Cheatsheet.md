@@ -44,3 +44,54 @@ Corrective points against trend. Candlestick size usually smaller
 3. Distribution
 4. Declining
 
+### Accumulation
+- Long period of consolidation
+- Long term MA flatten
+- Price ranging between long term MA
+
+### Advancing
+- Price breakout
+- Higher highs and higher lows
+- Short term MA above long term MA
+- Long term MA pointing higher
+- Price above long term MA
+
+### Distribution
+- Price rise over long time
+- Long period of consolidation after uptrend
+- Long term MA flatten
+- Price ranging between long term MA
+
+### Declining
+- Breakout of distribution 
+- Lower highs and lower lows
+- Short term MA below long term MA
+- Long term MA pointing lower
+- Price below long term MA
+
+## Indicators of trending market
+### Structure of market
+Downtrend: Lower highs, lower lows
+Uptrend: Higher highs, higher lows
+
+### Moving average
+20 MA (short)
+100 MA (medium)
+200 MA (long)
+
+## Indicators of ranging market
+Careful of range expansions/contractions
+
+## Interpret price action of market
+- ** Slope of impulse getting flatter**
+- ** Candlestick bodies getting smaller **
+- ** Slope of corrective moves getting steeper **
+- ** Candlestick bodies getting bigger on corrective moves **
+
+## Forget candlesticks, 4 things to remember instead
+1. Wick
+2. Length of the wick
+3. Size of the body
+4. Close of the candlestick
+
+[to be continued...]
