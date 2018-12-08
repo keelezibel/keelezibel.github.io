@@ -94,4 +94,17 @@ Careful of range expansions/contractions
 3. Size of the body
 4. Close of the candlestick
 
-[to be continued...]
+Longer wick suggests greater price rejection.
+More wicks suggests choppy environment.
+Large candle body suggest greater momentum.
+Close near bulls, bulls in control vice versa.
+
+## Advanced candlestick knowledge
+### Pinbar
+The key takeaway about this pattern is price rejection.
+Usually links to retracement within a trend (eg. lower timeframe)
+
+Trading strategy: Trade bullish pinbar at area of support or bearish pinbar 
+at area of resistance. Focus on price not the pattern.
+
+### Inside bar
