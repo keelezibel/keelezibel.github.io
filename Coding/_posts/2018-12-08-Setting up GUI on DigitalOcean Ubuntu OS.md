@@ -56,4 +56,11 @@ ssh -L 5901:127.0.0.1:5901 -N -f -l username server_ip_address
 11. Viola!
 
 <br />
+
+In case port is binded, run the following to check the pid and kill the process
+```
+lsof  -i :<port number>
+kill -9 <PID>
+```
+<br />
 That's all.
